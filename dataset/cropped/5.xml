@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cropped</folder>
+	<filename>5.png</filename>
+	<path>/Users/mac/Desktop/Programs/SelfDev/d4l2_yolo_detection/dataset/cropped/5.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zombie</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>347</xmin>
+			<ymin>167</ymin>
+			<xmax>1127</xmax>
+			<ymax>800</ymax>
+		</bndbox>
+	</object>
+</annotation>
